@@ -1,6 +1,6 @@
 do
 local function run(msg, matches)
-local bot_id = ایدی بوت
+local bot_id = 192916039
 local x = 165199480
 local y = 166257536
 local z = 142595126
