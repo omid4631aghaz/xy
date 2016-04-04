@@ -2,9 +2,9 @@ do
 
 local function run(msg, matches)
 
-local bot_id = 169430086[id bot]
+local bot_id = 192916039[id bot]
 
-local fbotmain = 68747297[id admin]
+local fbotmain = 179783031[id admin]
 
 local y = 
 
